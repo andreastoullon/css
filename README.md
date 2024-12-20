@@ -15,3 +15,8 @@ Estou treinando CSS
 
 
 4-foter
+
+
+
+
+5-Treinar a estrutura de branch commitar fazer as pull enfim tudo que o git permite
